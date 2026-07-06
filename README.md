@@ -1,9 +1,7 @@
 # PowerShellScripts
 PowerShell scripts that I build are put here.
 
-Update-Mailbox-Region-Tool.ps1
-Description
-
+# Update-Mailbox-Region-Tool.ps1
 Update-Mailbox-Region-Tool.ps1 is a PowerShell administration tool for Exchange Online that simplifies the management of mailbox regional settings across one or many mailboxes. It can be used to audit existing regional configuration, preview planned changes, and apply standardized regional settings in a controlled and repeatable manner.
 
 By default, the script operates in report mode, allowing administrators to verify the current mailbox configuration before making any changes. When the -Execute parameter is specified, the script updates mailbox regional settings, including language, time zone, date format, time format, and optionally localizes the default mailbox folder names.
