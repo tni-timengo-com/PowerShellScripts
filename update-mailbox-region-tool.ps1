@@ -1,11 +1,12 @@
 # =============================================================================
-# Author  : Thomas Nielsen, assisted by GitHub Copilot
+# Author  : Thomas Nielsen Hoff-Hansen, assisted by GitHub Copilot
 # Created : 2026-07-06 on a rainy day in my summer vacation 2026 here in Denmark.
 #
 # DISCLAIMER: This script is provided as-is without warranty of any kind.
 # The author accepts no responsibility for any issues, data loss, or unintended
 # changes that may result from running this script. Always test in a non-
 # production environment before executing against live mailboxes.
+# Version 1.0
 # =============================================================================
 
 <#
